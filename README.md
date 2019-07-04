@@ -9,7 +9,12 @@ Steps:
 3.) Run it! 
 
 
-Notes:
+Note:
 1.) You need to stop training manually, after sometime. After 20,000 steps, it is safe to stop the training. The accuracy increases very slightly after 20,000 steps. 
 
+The model is just trained on 195 images of white football ball, and we are predicting on yellow football ball. It still performs quite good. 
+
+
 You can see the demo video here:
+
+
