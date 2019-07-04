@@ -4,7 +4,7 @@ You can run Football_Object_Detector.ipynb file on google colab. It has most of 
 
 Steps:
 
-1.) Add this dataset to your google drive: link
+1.) Add this dataset to your google drive: https://drive.google.com/file/d/11wI-hkC5t_vlWQ4a5vNPQSaQqes9laO7/view?usp=sharing
 2.) Download Football_Object_Detector.ipynb, pipeline.config, label_map.pbtxt, generate_record.py files and upload them to colab
 3.) Run it! 
 
@@ -16,5 +16,4 @@ The model is just trained on 195 images of white football ball, and we are predi
 
 
 You can see the demo video here:
-
-
+https://www.youtube.com/watch?v=-oU10h7xB5k&feature=youtu.be
